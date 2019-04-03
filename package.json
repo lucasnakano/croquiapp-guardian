@@ -1,0 +1,19 @@
+{
+  "name": "croquiapp-guardian",
+  "version": "1.0.0",
+  "description": "The guardian for Croqui App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasnakano/croquiapp-guardian.git"
+  },
+  "author": "Croqui App",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasnakano/croquiapp-guardian/issues"
+  },
+  "homepage": "https://github.com/lucasnakano/croquiapp-guardian#readme"
+}
